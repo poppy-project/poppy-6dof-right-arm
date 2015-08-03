@@ -4,7 +4,7 @@ Watch PoppyRightArm in action! :
 
 [![Little red ridning hood](doc/img/video.jpg)](https://vimeo.com/134843436 "Little red riding hood - Click to Watch!")
 
-## [Documentation »](https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/README.md)
+## [Documentation »](https://github.com/joelortizsosa/poppy-6dof-right-arm/blob/master/doc/README.md)
 ## [STL View »](doc/stl/PoppyRightArm.STL)
 
 ## Credit
