@@ -2,7 +2,7 @@
 
 ## Install Creature
 
-you can donwload the creature in this [link](https://github.com/joelortizsosa/Poppy_bras_Creatures/archive/master.zip).To make the installation (in windows xp,7,8), It's necessary load  the command-line interpreter on Windows and then 
+you can donwload the creature in this [link](https://github.com/poppy-project/poppy-6dof-right-arm/archive/master.zip).To make the installation (in windows xp,7,8), It's necessary load  the command-line interpreter on Windows and then 
 you need to be located in the folder of the creature:
 
 ![img16](img/software/img16.jpg)
@@ -42,7 +42,7 @@ We can start an HTTP server permitting the remote access of  Poppy_Right_Arm cre
 
 **Note: Poppy_Right_Arm creature use a software architecture style for building scalable web services (REST-API)*
 
-we implemented a server, with the ideal setting to control the Poppy_Right_Arm. You can see the code in this [link] (https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/applications/HTTP_server/Poppy_Right_Arm_Server.py)
+we implemented a server, with the ideal setting to control the Poppy_Right_Arm. You can see the code in this [link] (https://github.com/poppy-project/poppy-6dof-right-arm/blob/master/applications/HTTP_server/Poppy_Right_Arm_Server.py)
 To execute the server it's necessary load  the command-line interpreter and to be located in the folder of the code, then you put this code:
 
 **python Poppy_Right_Arm_Server.py**
@@ -57,10 +57,10 @@ With the python server we can do different applications, for example we used mat
 
 There are many software with [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer) support, Matlab only support REST API from 2014 version, but we can use the HTTP protocol. The HTTP protocol implemented in Matlab is very basic, you can download an improved version in this [link](http://www.mathworks.com/matlabcentral/fileexchange/35693-urlread2)
 
-We did a client in matlab that you can download from this [link](https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/applications/Matlab_client/Matlab_client.rar?raw=true). This client can control the Poppy_Right_Arm using the inverse kinematics, only you have to press the boton "Connect" and then move the sliders of each axe.
+We did a client in matlab that you can download from this [link](https://github.com/poppy-project/poppy-6dof-right-arm/raw/master/applications/Matlab_client/Matlab_client.rare). This client can control the Poppy_Right_Arm using the inverse kinematics, only you have to press the boton "Connect" and then move the sliders of each axe.
 
 ![matlab_client](img/software/matlab_client.jpg)
 
 
-## [Home »] (https://github.com/joelortizsosa/Poppy_Right_Arm_Creature/blob/master/doc/README.md)
+## [Home »] (https://github.com/poppy-project/poppy-6dof-right-arm/blob/master/doc/README.md)
 
