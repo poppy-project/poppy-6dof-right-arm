@@ -28,7 +28,7 @@ poppy.r_m5.pid=(8,0,0)
 for m in poppy.motors:
     m.torque_limit = 70
 
-time.sleep(0.5)
+#time.sleep(0.5)
 # Initialize the angles of the motors
 poppy.r_shoulder_x.goal_position =-20
 poppy.r_m1.goal_position =0

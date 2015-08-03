@@ -33,7 +33,7 @@ load J;
 J=J;
 
 
-timer1 = timer('ExecutionMode','fixedRate','Period', 0.05,'TimerFcn', {@Update,handles}); % Configuration of timer at 0.05 Seconds
+timer1 = timer('ExecutionMode','fixedRate','Period', 0.03,'TimerFcn', {@Update,handles}); % Configuration of timer at 0.05 Seconds
 % Presetting the axes
 set(handles.slider4,'value',14.0) % axe X
 set(handles.slider5,'value',12)   % axe Y
