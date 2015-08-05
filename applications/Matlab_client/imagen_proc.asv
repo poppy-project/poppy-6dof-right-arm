@@ -135,16 +135,15 @@ if strcmp(get(handles.connectButton,'String'),'Disconnect') % start only if the 
     %----------------- ( Read angle information ) ------------------------
     angle_Wrist=urlread('http://127.0.0.1:3030/motor/r_m4/register/present_position');
     
-        for i=1:size(angle_Wrist,2)
-            if (angle_Wrist(1,i)=='}')   
-             for j=1:size(angle_Wrist,2)
-                 if (angle_Wrist(1,j)==':')
-                     set (handles.angWrist, 'string',angle_Wrist(1,(j+1):(i-1))) ; 
-                 end
+    for i=1:size(angle_Wrist,2)
+        if (angle_Wrist(1,i)=='}')   
+         for j=1:size(angle_Wrist,2)
+             if (angle_Wrist(1,j)==':')
+                 set (handles.angWrist, 'string',angle_Wrist(1,(j+1):(i-1))) ; 
              end
-            end
-        end    
-    %---------------------------------------------------------------------
+         end
+        end
+    end    
             
 end    
 
