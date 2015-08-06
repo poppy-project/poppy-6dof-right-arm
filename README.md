@@ -2,7 +2,7 @@
 
 Watch PoppyRightArm in action! :
 
-[![Little red ridning hood](doc/img/video.jpg)](https://www.youtube.com/watch?v=47-JBuZhTWU&feature=youtu.be "Little red riding hood - Click to Watch!")
+[![Little red ridning hood](doc/img/Popvideo.jpg)](https://www.youtube.com/watch?v=47-JBuZhTWU&feature=youtu.be "Little red riding hood - Click to Watch!")
 
 ## [Documentation »](https://github.com/poppy-project/poppy-6dof-right-arm/blob/master/doc/README.md)
 ## [STL View »](doc/stl/PoppyRightArm.STL)
