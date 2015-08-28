@@ -57,7 +57,7 @@ With the python server we can do different applications, for example we used mat
 
 There are many software with [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer) support, Matlab only support REST API from 2014 version, but we can use the HTTP protocol. The HTTP protocol implemented in Matlab is very basic, you can download an improved version in this [link](http://www.mathworks.com/matlabcentral/fileexchange/35693-urlread2)
 
-We did a client in matlab that you can download from this [link](https://github.com/poppy-project/poppy-6dof-right-arm/raw/master/applications/Matlab_client/Matlab_client.rare). This client can control the Poppy_Right_Arm using the inverse kinematics, only you have to press the boton "Connect" and then move the sliders of each axe.
+We did a client in matlab that you can download from this [link](https://github.com/poppy-project/poppy-6dof-right-arm/raw/master/applications/Matlab_client/Matlab_client.rar). This client can control the Poppy_Right_Arm using the inverse kinematics, only you have to press the boton "Connect" and then move the sliders of each axe.
 
 ![matlab_client](img/software/matlab_client.jpg)
 
