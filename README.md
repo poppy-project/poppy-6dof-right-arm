@@ -9,7 +9,7 @@ Watch PoppyRightArm in action! :
 
 ## Credit
 
-The beginning of this project was inspired from the project [Poppy Humanoid](https://www.poppy-project.org/?lang=fr). This project was conceived to simulate an upper limb prostheses. In this [link](https://vimeo.com/134840606) you can watch an EMG control of Poppy Humanoid where this projectt will replace all Poppy humanoid to use only the part of interest.
+The beginning of this project was inspired from the project [Poppy Humanoid](https://www.poppy-project.org/?lang=fr). This project was conceived to simulate an upper limb prostheses. In this [link](https://vimeo.com/134840606) you can watch an EMG control of Poppy Humanoid where this projectt will replace all Poppy humanoid to use only the part of interest, and in this other [link](https://github.com/joelortizsosa/EMG_Processing) you can dowload the software used in the video
 
 This project is in charge of the research center [INRIA](http://www.inria.fr/centre/bordeaux) in collaboration of [INCIA](http://www.incia.u-bordeaux1.fr/)
 
