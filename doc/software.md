@@ -61,6 +61,7 @@ We did a client in matlab that you can download from this [link](https://github.
 
 ![matlab_client](img/software/matlab_client.jpg)
 
+We developed the same sotware in python, using PyQT4, you can access in this [link](https://github.com/joelortizsosa/Inverse-Kinematic-Python)
 
 ## [Home »] (https://github.com/poppy-project/poppy-6dof-right-arm/blob/master/doc/README.md)
 
